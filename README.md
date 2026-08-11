@@ -11,6 +11,7 @@ genere: Gestionale
 categoria: FREEWARE
 
 https://www.iacosoft.com/home/programmi.asp#DOMINATOR
+
 https://www.iacosoft.com/home/autore.asp
 
 INTRODUZIONE
